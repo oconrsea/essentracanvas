@@ -1,0 +1,3 @@
+<?php
+define("CLIENT_SECRET", "187277604527221518");
+?>
